@@ -55,22 +55,23 @@
 
 ---
 
-### 📊 GitHub Stats
+##📊 GitHub Stats & LeetCode Stats
 
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Jeycharan&show_icons=true&theme=tokyonight&count_private=true" alt="Jey's GitHub Stats" width="400"/>
+    </td>
+    <td>
+      <img src="https://leetcard.jacoblin.cool/Jeycharan?theme=dark&font=baloo2&ext=heatmap" alt="Jey's LeetCode Stats" width="400"/>
+    </td>
+  </tr>
+</table>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jeycharan&show_icons=true&theme=tokyonight&count_private=true" alt="Jey's GitHub Stats" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jeycharan&theme=tokyonight" alt="Jey's GitHub Streak" height="165"/>
 </p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeycharan&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-🧩 LeetCode Stats
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Jeycharan?theme=dark&font=baloo2&ext=heatmap" alt="Jey's LeetCode Stats" />
 </p>
 
 ---
