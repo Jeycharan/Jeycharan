@@ -60,14 +60,14 @@
 <table>
   <tc>
     <td>
-      <img src="https://leetcard.jacoblin.cool/Jeycharan?theme=dark&font=baloo2&ext=heatmap" alt="Jey's LeetCode Stats" width="400"/>
+      <p align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jeycharan&theme=tokyonight" alt="Jey's GitHub Streak" height="165"/>
+      </p>
     </td>
   </tc>
   <tc>
     <td>
-      <p align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jeycharan&theme=tokyonight" alt="Jey's GitHub Streak" height="165"/>
-      </p>
+      <img src="https://leetcard.jacoblin.cool/Jeycharan?theme=dark&font=baloo2&ext=heatmap" alt="Jey's LeetCode Stats" width="400"/>
     </td>
   </tc>
 </table>
