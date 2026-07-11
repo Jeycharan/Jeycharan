@@ -67,6 +67,13 @@
 </p>
 
 ---
+🧩 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Jeycharan?theme=dark&font=baloo2&ext=heatmap" alt="Jey's LeetCode Stats" />
+</p>
+
+---
 
 ### 📫 Connect with Me
 
