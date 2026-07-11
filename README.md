@@ -55,21 +55,21 @@
 
 ---
 
-###📊 GitHub Stats & LeetCode Stats
+### 📊 GitHub Stats & LeetCode Stats
 
 <table>
-  <tr>
+  <tc>
     <td>
       <img src="https://leetcard.jacoblin.cool/Jeycharan?theme=dark&font=baloo2&ext=heatmap" alt="Jey's LeetCode Stats" width="400"/>
     </td>
-  </tr>
-  <tr>
+  </tc>
+  <tc>
     <td>
       <p align="center">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jeycharan&theme=tokyonight" alt="Jey's GitHub Streak" height="165"/>
       </p>
     </td>
-  </tr>
+  </tc>
 </table>
 
 
