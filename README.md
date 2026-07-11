@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Jey Charan</h1>
-<h3 align="center">Full-Stack / Backend Developer | MERN Stack | Building for Healthcare, Education & Disaster Relief</h3>
+<h1 align="center">Hi 👋, I'm Jeycharan</h1>
+<h3 align="center">Full-Stack / Backend Developer | MERN Stack | Node.js | Express.js | React.js | MongoDB</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=550&lines=Final-Year+IT+Student+%40+SSIET;MERN+Stack+Developer;300%2B+LeetCode+Problems+Solved;2x+Patent+Filer;NxtWave+CCBP+4.0+Fellow" alt="Typing SVG" />
@@ -11,11 +11,10 @@
 
 - 🎓 Final-year **Information Technology** student at **Sri Shakthi Institute of Engineering and Technology**, Coimbatore *(Expected Graduation: Sept 2027, CGPA 8.52)*
 - 💻 Aspiring **Full-Stack / Backend Software Developer**, currently in active placement preparation
-- 🧠 **NxtWave CCBP 4.0 Fellow**
 - 🏆 Selected for **Smart India Hackathon (SIH)**
 - 📄 Filed **2 patents** for personal engineering projects
 - 🧩 **300+ LeetCode problems solved**, active in monthly coding challenges
-- 🌍 Passionate about building real-world software across **healthcare, education, and disaster management**
+- 🌍 Passionate about building real-world software across **Real world problems**
 
 ---
 
