@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack / Backend Developer | MERN Stack | Node.js | Express.js | React.js | MongoDB</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=550&lines=Final-Year+IT+Student+%40+SSIET;MERN+Stack+Developer;300%2B+LeetCode+Problems+Solved;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=550&lines=Final-Year+IT+Student+%40+SIET;MERN+Stack+Developer;300%2B+LeetCode+Problems+Solved;" alt="Typing SVG" />
 </p>
 
 ---
